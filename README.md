@@ -1,6 +1,6 @@
 # my_php_app
 This PHP Web Application is a modern and secure CRUD (Create, Read, Update, Delete) system built using PHP 8+, MySQL, and Bootstrap 5. It includes a user registration and login system, allowing users to manage records efficiently through a simple, responsive, and user-friendly interface.  
-🧩 PHP Web Application
+🧩🧩 PHP Web Application
 A modern, secure, and responsive PHP CRUD web application built using PHP 8+, MySQL, and Bootstrap 5.
 Includes user authentication, CRUD operations, and a clean UI for easy data management.
 ________________________________________
@@ -69,9 +69,10 @@ ________________________________________
 
 ├── register.php
 
+└── welcome.php
+
  screenshots.zip
 
-└── welcome.php
 ________________________________________
 🧾 License
 This project is released under the MIT License.
@@ -81,5 +82,4 @@ ________________________________________
 Developed by [Manas Kumar Rout]
 📧 Contact: [manasroutcse@gmail.com]
 🌐 Portfolio: []
-
 
