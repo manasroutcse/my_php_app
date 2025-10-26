@@ -83,3 +83,32 @@ Developed by [Manas Kumar Rout]
 📧 Contact: [manasroutcse@gmail.com]
 🌐 Portfolio: []
 
+
+
+screenshot-
+1- Admin page:-
+<img width="1897" height="877" alt="admin" src="https://github.com/user-attachments/assets/29f506b2-a199-48e5-b5e9-de24d3c7d13b" />
+copy url paste in google chrome:-https://github.com/user-attachments/assets/29f506b2-a199-48e5-b5e9-de24d3c7d13b
+create page:-
+2-<img width="1910" height="882" alt="create" src="https://github.com/user-attachments/assets/75a8fbd7-4254-4ef6-a036-87951b3f7a54" />
+copy url paste in google chrome:-https://github.com/user-attachments/assets/75a8fbd7-4254-4ef6-a036-87951b3f7a54
+database page:-
+
+3-<img width="1892" height="872" alt="database" src="https://github.com/user-attachments/assets/d5b3f283-41cd-4630-af8d-2f85a3c2b0fd" />
+copy url paste in google chrome:-https://github.com/user-attachments/assets/d5b3f283-41cd-4630-af8d-2f85a3c2b0fd
+login page:-
+4-<img width="1893" height="866" alt="login" src="https://github.com/user-attachments/assets/57aec1bd-99e0-48e2-8c0a-33cfe2ed2141" />
+copy url paste in google chrome:-https://github.com/user-attachments/assets/57aec1bd-99e0-48e2-8c0a-33cfe2ed2141
+Register page:-
+5-<img width="1915" height="870" alt="register" src="https://github.com/user-attachments/assets/57fa0907-d4e9-4ff9-bfab-22c2dbbe0900" />
+copy url paste in google chrome:-https://github.com/user-attachments/assets/57fa0907-d4e9-4ff9-bfab-22c2dbbe0900
+Table datatype page:-
+6- <img width="1915" height="867" alt="table_datatype" src="https://github.com/user-attachments/assets/80c9d770-e17c-4ea9-8e6e-3c48ff92323b" />
+copy url paste in google chrome:-  https://github.com/user-attachments/assets/80c9d770-e17c-4ea9-8e6e-3c48ff92323b
+
+
+
+
+
+
+
